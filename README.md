@@ -12,3 +12,5 @@ Gmail: ahmed.bilal575@gmail.com <br>
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-shaikh575&theme=dark)](https://git.io/streak-stats)
+
