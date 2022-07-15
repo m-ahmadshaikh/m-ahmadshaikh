@@ -4,13 +4,13 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<img src="https://profile-counter.glitch.me/m-ahmadshaikh/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/m-ahmadshaikh.svg?style=social&label=Followers)](https://github.com/m-ahmadshaikh?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=m-ahmadshaikh&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
@@ -42,13 +42,13 @@
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m-ahmadshaikh&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-shaikh575&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ahmadshaikh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
@@ -56,7 +56,7 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=m-ahmadshaikh&theme=gruvbox&hide_border=true&area=true)
 
 
 
@@ -150,7 +150,7 @@
     
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=m-ahmadshaikh&theme=gruvbox" />
 
 
 <br/>
